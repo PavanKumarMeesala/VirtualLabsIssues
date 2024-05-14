@@ -29,7 +29,7 @@ Experiment link: [Depth First Traversal Preorder practice in Tree Traversal](htt
 Bug: The pre-order traversal follows Root-Left-Right but your practice algorithm expects the Root-Right-Left.  
 
 Experiment link: [Breadth First Traversal Practice](https://ds1-iiith.vlabs.ac.in/exp/tree-traversal/breadth-first-traversal/bft-practice.html)        
-Bug: Almost the perfect work done!! but a subtle expection is while practicing whatever node you select on the last click the output will result in: Traversal Complete.Your Traversal is Correct  
+Bug: Almost the perfect work done!! but a subtle expection is while practicing whatever node you select any node on the last click the output will result in: Traversal Complete.Your Traversal is Correct  
 
 **Example:**   
 Expected Node Sequence: 2 7 5 21 6 8 11    
