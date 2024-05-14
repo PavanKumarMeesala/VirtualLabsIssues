@@ -43,9 +43,9 @@ pop() -> Stack[1] // Bug
 - Bug: Almost the perfect work done!! but a subtle expection is while practicing whatever node you select any node on the last click the output will result in: Traversal Complete.Your Traversal is Correct  
 
 - **Example:**   
- - Expected Node Sequence: 2 7 5 21 6 8 11    
- - The selected Node Sequence: 2 7 5 21 6 8 21    
- - Both resultant in: Correct        
+     - Expected Node Sequence: 2 7 5 21 6 8 11    
+     - The selected Node Sequence: 2 7 5 21 6 8 21    
+     - Both resultant in: Correct        
 
 7. Experiments links:        
 [Singly Linked List Practice](https://ds1-iiith.vlabs.ac.in/exp/linked-list/singly-linked-list/sllpractice.html)  
