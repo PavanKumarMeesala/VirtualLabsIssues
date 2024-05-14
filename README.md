@@ -6,7 +6,7 @@ Brief about the issues and bugs related to Virtual Labs developed by IIT Delhi.
 **_Major issue (may lead to misguide beginner's):_**
 
 Experiment link: [Stack through Linked List](https://ds1-iiith.vlabs.ac.in/exp/stacks-queues/stacks/stack-linkedlist.html)   
-Bug: We cannot perform pop operation more than one time. Although there are elements in the stack.
+Bug: We cannot perform pop operation more than one time. Although there are elements in the stack.        
 
 **Case 1: Stack: []**    
 push(5) -> Stack[5]   
