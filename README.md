@@ -3,7 +3,7 @@ Brief about the issues and bugs related to Virtual Labs developed by IIT Delhi.
 
 ## Department name: Computer Science & Engineering.   
 ### Module name: Data Structues - I.   
-**_Major issue (may lead to misguide beginner's):_**
+**_Major issues (may lead to misguide beginner's):_**
 
 1. Experiment link: [Stack through Linked List](https://ds1-iiith.vlabs.ac.in/exp/stacks-queues/stacks/stack-linkedlist.html)   
 Bug: We cannot perform pop operation more than one time. Although there are elements in the stack.        
