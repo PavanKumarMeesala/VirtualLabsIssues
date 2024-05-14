@@ -5,7 +5,7 @@ Brief about the issues and bugs related to Virtual Labs developed by IIT Delhi.
 ### Module name: Data Structues - I.   
 
 Experiment link: [Preset in Stacks section](https://ds1-iiith.vlabs.ac.in/exp/stacks-queues/pretest.html)   
-Bug: Explanation is provided only for the first question only.
+Bug: Explanation is provided only for the first question.
 
 Experiment link: [Stack through Linked List](https://ds1-iiith.vlabs.ac.in/exp/stacks-queues/stacks/stack-linkedlist.html)   
 Bug: We cannot perform pop operation more than one time.    
