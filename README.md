@@ -27,11 +27,34 @@ Bug: If (input value == null) still it is pushes it into stack. Handle null valu
 Experiment link: [Depth First Traversal Preorder practice in Tree Traversal](https://ds1-iiith.vlabs.ac.in/exp/tree-traversal/depth-first-traversal/dft-practice.html)  
 Bug: The pre-order traversal follows Root-Left-Right but your practice algorithm expects the Root-Right-Left.  
 
-Experiment link: [Breadth First Traversal Practice](https://ds1-iiith.vlabs.ac.in/exp/tree-traversal/breadth-first-traversal/bft-practice.html)
+Experiment link: [Breadth First Traversal Practice](https://ds1-iiith.vlabs.ac.in/exp/tree-traversal/breadth-first-traversal/bft-practice.html)        
 Bug: Almost the perfect work done!! but a subtle expection is while practicing whatever node you select on the last click the output will result in: Traversal Complete.Your Traversal is Correct  
 
 **Example:**   
 Expected Node Sequence: 2 7 5 21 6 8 11    
 The selected Node Sequence: 2 7 5 21 6 8 21    
-            
+Both resultant in: Correct        
+
+Experiments links:        
+[Singly Linked List Practice](https://ds1-iiith.vlabs.ac.in/exp/linked-list/singly-linked-list/sllpractice.html)  
+[Singly Linked List Exercise](https://ds1-iiith.vlabs.ac.in/exp/linked-list/singly-linked-list/sllexercise.html)        
+[Doubly Linked List Practice](https://ds1-iiith.vlabs.ac.in/exp/linked-list/doubly-linked-list/dllpractice.html)          
+[Doubly Linked List Exercise](https://ds1-iiith.vlabs.ac.in/exp/linked-list/doubly-linked-list/dllexercise.html)        
+[Circular Linked List Practice](https://ds1-iiith.vlabs.ac.in/exp/linked-list/circular-linked-list/cllpractice.html)        
+[Circular Linked List Exercise](https://ds1-iiith.vlabs.ac.in/exp/linked-list/circular-linked-list/cllexercise.html)
+
+Bug: Same bug in all the above practice interfaces. If(input == null) still it is inserted into linked list. Handle null value exception.      
+
+Experiment link: [Binary Search Pratice in Unsorted Arrays](https://ds1-iiith.vlabs.ac.in/exp/unsorted-arrays/binary-search/binary_search_practice.html)        
+Bug: Try to search any of the values in the array but the output remains 4, 1, 0.
+
+Example:        
+Array: 11 32 35 35 40 45 59 81 82 83        
+Element to search: 40        
+Correct output: 4        
+Your expected output: 4, 1, 0.            
+
+Experiment link: [DFS Exercise](https://ds1-iiith.vlabs.ac.in/exp/depth-first-search/dfs/dfs-exercise.html)        
+Bug: Page is going to unresposive state with the user select nodes / performs incorrect traversal.        
+
 
