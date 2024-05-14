@@ -8,7 +8,8 @@ Experiment link: [Preset in Stacks section](https://ds1-iiith.vlabs.ac.in/exp/st
 Bug: Explanation is provided only for the first question.
 
 Experiment link: [Stack through Linked List](https://ds1-iiith.vlabs.ac.in/exp/stacks-queues/stacks/stack-linkedlist.html)   
-Bug: We cannot perform pop operation more than one time.    
+Bug: We cannot perform pop operation more than one time. Although there are elements in the stack.
+
 **Case 1: Stack: []**    
 push(5) -> Stack[5]   
 push(5) -> Stack[5, 5]   
