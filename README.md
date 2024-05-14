@@ -24,8 +24,8 @@ pop() -> Stack[1] // Bug
 - Bug: The pre-order traversal follows Root-Left-Right but your practice algorithm expects the Root-Right-Left.          
 
 3. Experiment link: [Binary Search Pratice in Unsorted Arrays](https://ds1-iiith.vlabs.ac.in/exp/unsorted-arrays/binary-search/binary_search_practice.html)        
-- Bug: Try to search any of the values in the array but the output remains 4, 1, 0.
-  -Example:        
+- Bug: Try to search any of the values in the array but the output remains 4, 1, 0.        
+  - Example:        
     - Array: 11 32 35 35 40 45 59 81 82 83        
     - Element to search: 40        
     - Correct output: 4        
